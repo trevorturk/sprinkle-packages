@@ -28,10 +28,18 @@ See example.rb for the packages that would be installed, and the packages
 directory to view the details of those packages.
 
 
+Thanks
+------
+
+I want to give a big thanks to Timelines, Inc. for sponsoring the development
+of these packages. Check out <http://timelines.com> if you're interested in
+historical events and what happened on this week in history.
+
+
 MIT License
 -----------
 
-Copyright (c) 2010 Trevor Turk
+Copyright (c) 2010 Timelines, Inc.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
